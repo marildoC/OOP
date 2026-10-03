@@ -2,7 +2,7 @@
 
 A collection of Java applications developed around core **object-oriented programming** concepts, graphical user interfaces, event-driven interaction, and application logic.
 
-## Applications
+## Applications 
 
 ### Calculator
 A desktop calculator for common arithmetic operations, built with a graphical interface and structured application logic.
